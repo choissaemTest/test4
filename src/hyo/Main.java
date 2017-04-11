@@ -14,6 +14,11 @@ public class Main {
 		System.out.println("3.도서 삭제");
 		System.out.println("4.종료합니다");
 		
+		
+		System.out.println("hello");
+		
+		
+		
 		int choice =-1;
 		
 		String str;
